@@ -52,7 +52,7 @@ html {
     position: absolute;
     top: 0;
     right: 0;
-    background: url(/Images/308198798_5496054140501366_6010580410673213058_n.jpg) no-repeat center center/cover ;
+    background: url(./Images/308198798_5496054140501366_6010580410673213058_n.jpg) no-repeat center center/cover ;
     height: 900px;
     width: 100%;
     z-index: -1;
